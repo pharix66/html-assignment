@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Style Haven Clothing</title>
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to Style Haven Clothing</h1>
+    </header>
+
+    <!-- Navigation Section -->
+    <nav>
+        <ul>
+            <li><a href="#collection">Our Collection</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Content Section -->
+    <main>
+        <section id="collection">
+            <h2>Latest Collection</h2>
+            <p>Discover our trendy outfits, from casual wear to elegant evening attire, crafted to make you look and feel amazing.</p>
+        </section>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>At Style Haven, we believe in empowering individuals with clothing that brings out their confidence and style.</p>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>Contact us: <a href="mailto:info@stylehaven.com">info@stylehaven.com</a></p>
+        <p>Visit us: Style Haven Clothing, Nairobi.</p>
+        <p>&copy; 2025 Style Haven Clothing</p>
+    </footer>
+</body>
+</html>
